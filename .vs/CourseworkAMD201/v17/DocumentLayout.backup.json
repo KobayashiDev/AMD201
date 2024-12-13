@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Software\\AMD 201\\clone 2\\AMD201\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|c:\\software\\amd 201\\clone 2\\amd201\\clientside\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|solutionrelative:clientside\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|c:\\software\\amd 201\\clone 2\\amd201\\clientside\\src\\pages\\shortenpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|solutionrelative:clientside\\src\\pages\\shortenpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|c:\\software\\amd 201\\clone 2\\amd201\\clientside\\src\\pages\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|solutionrelative:clientside\\src\\pages\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|c:\\software\\amd 201\\clone 2\\amd201\\clientside\\src\\pages\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|solutionrelative:clientside\\src\\pages\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E61F8A7-8612-440A-8BFB-C3C366DF783A}|gateWay\\gateWay.csproj|c:\\software\\amd 201\\clone 2\\amd201\\gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E61F8A7-8612-440A-8BFB-C3C366DF783A}|gateWay\\gateWay.csproj|solutionrelative:gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|c:\\software\\amd 201\\clone 2\\amd201\\clientside\\src\\assets\\shortedpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|solutionrelative:clientside\\src\\assets\\shortedpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|c:\\software\\amd 201\\clone 2\\amd201\\clientside\\src\\assets\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F84D0D9-51C2-4789-BA1C-970F92F18613}|ClientSide\\clientside.esproj|solutionrelative:clientside\\src\\assets\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EB10AF-9B91-43F5-ACFE-D28E1ADC7974}|urlShortedLinkService\\urlShortedLinkService.csproj|c:\\software\\amd 201\\clone 2\\amd201\\urlshortedlinkservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EB10AF-9B91-43F5-ACFE-D28E1ADC7974}|urlShortedLinkService\\urlShortedLinkService.csproj|solutionrelative:urlshortedlinkservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EB10AF-9B91-43F5-ACFE-D28E1ADC7974}|urlShortedLinkService\\urlShortedLinkService.csproj|c:\\software\\amd 201\\clone 2\\amd201\\urlshortedlinkservice\\migrations\\20241205091700_duong123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EB10AF-9B91-43F5-ACFE-D28E1ADC7974}|urlShortedLinkService\\urlShortedLinkService.csproj|solutionrelative:urlshortedlinkservice\\migrations\\20241205091700_duong123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC6226AD-09DA-452A-A83C-6473AC01DA32}|AuthenticationService\\AuthenticationService.csproj|c:\\software\\amd 201\\clone 2\\amd201\\authenticationservice\\migrations\\20241205091527_duong123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC6226AD-09DA-452A-A83C-6473AC01DA32}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\migrations\\20241205091527_duong123.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\.gitignore",
+              "RelativeDocumentMoniker": "clientside\\.gitignore",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\.gitignore",
+              "RelativeToolTip": "clientside\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-13T09:22:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.jsx",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\Pages\\register.jsx",
+              "RelativeDocumentMoniker": "clientside\\src\\Pages\\register.jsx",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\Pages\\register.jsx",
+              "RelativeToolTip": "clientside\\src\\Pages\\register.jsx",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-05T18:02:22.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shortenPage.jsx",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\Pages\\shortenPage.jsx",
+              "RelativeDocumentMoniker": "clientside\\src\\Pages\\shortenPage.jsx",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\Pages\\shortenPage.jsx",
+              "RelativeToolTip": "clientside\\src\\Pages\\shortenPage.jsx",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwFEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-05T09:52:48.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shortedPage.css",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\assets\\shortedPage.css",
+              "RelativeDocumentMoniker": "clientside\\src\\assets\\shortedPage.css",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\assets\\shortedPage.css",
+              "RelativeToolTip": "clientside\\src\\assets\\shortedPage.css",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAkwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-05T09:55:57.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "homePage.jsx",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\Pages\\homePage.jsx",
+              "RelativeDocumentMoniker": "clientside\\src\\Pages\\homePage.jsx",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\Pages\\homePage.jsx",
+              "RelativeToolTip": "clientside\\src\\Pages\\homePage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-05T18:11:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241205091700_duong123.cs",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\urlShortedLinkService\\Migrations\\20241205091700_duong123.cs",
+              "RelativeDocumentMoniker": "urlShortedLinkService\\Migrations\\20241205091700_duong123.cs",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\urlShortedLinkService\\Migrations\\20241205091700_duong123.cs",
+              "RelativeToolTip": "urlShortedLinkService\\Migrations\\20241205091700_duong123.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:17:01.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\assets\\home.css",
+              "RelativeDocumentMoniker": "clientside\\src\\assets\\home.css",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\clientside\\src\\assets\\home.css",
+              "RelativeToolTip": "clientside\\src\\assets\\home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-05T18:11:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\gateWay\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "gateWay\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\gateWay\\Properties\\launchSettings.json",
+              "RelativeToolTip": "gateWay\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T09:12:07.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\urlShortedLinkService\\Program.cs",
+              "RelativeDocumentMoniker": "urlShortedLinkService\\Program.cs",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\urlShortedLinkService\\Program.cs",
+              "RelativeToolTip": "urlShortedLinkService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:16:31.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241205091527_duong123.cs",
+              "DocumentMoniker": "C:\\Software\\AMD 201\\clone 2\\AMD201\\AuthenticationService\\Migrations\\20241205091527_duong123.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Migrations\\20241205091527_duong123.cs",
+              "ToolTip": "C:\\Software\\AMD 201\\clone 2\\AMD201\\AuthenticationService\\Migrations\\20241205091527_duong123.cs",
+              "RelativeToolTip": "AuthenticationService\\Migrations\\20241205091527_duong123.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:15:27.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

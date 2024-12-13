@@ -1,0 +1,2 @@
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\ClientSide\obj\Debug\clientside.esproj.CoreCompileInputs.cache
+C:\Software\AMD 201\clone 2\AMD201\ClientSide\obj\Debug\clientside.esproj.CoreCompileInputs.cache

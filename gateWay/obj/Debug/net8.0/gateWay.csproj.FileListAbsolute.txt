@@ -1,0 +1,83 @@
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\appsettings.Development.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\appsettings.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\ocelotGateWay.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\gateWay.exe
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\gateWay.deps.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\gateWay.runtimeconfig.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\gateWay.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\gateWay.pdb
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\FluentValidation.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\IPAddressRange.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\bin\Debug\net8.0\Ocelot.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.csproj.AssemblyReference.cache
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.AssemblyInfoInputs.cache
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.AssemblyInfo.cs
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.csproj.CoreCompileInputs.cache
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets.build.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets.development.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.gateWay.Microsoft.AspNetCore.StaticWebAssets.props
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.gateWay.props
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gateWay.props
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gateWay.props
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\staticwebassets.pack.json
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\scopedcss\bundle\gateWay.styles.css
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.csproj.Up2Date
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\refint\gateWay.dll
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.pdb
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\gateWay.genruntimeconfig.cache
+D:\hoc tap\ki6\AMD201\CourseworkAMD201\gateWay\obj\Debug\net8.0\ref\gateWay.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\appsettings.Development.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\appsettings.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\ocelotGateWay.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\gateWay.staticwebassets.endpoints.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\gateWay.exe
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\gateWay.deps.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\gateWay.runtimeconfig.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\gateWay.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\gateWay.pdb
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\FluentValidation.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\IPAddressRange.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\bin\Debug\net8.0\Ocelot.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.csproj.AssemblyReference.cache
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.AssemblyInfoInputs.cache
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.AssemblyInfo.cs
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.csproj.CoreCompileInputs.cache
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.sourcelink.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\scopedcss\bundle\gateWay.styles.css
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets.build.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets.development.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.gateWay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.gateWay.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.gateWay.props
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.gateWay.props
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.gateWay.props
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.csproj.Up2Date
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\refint\gateWay.dll
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.pdb
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\gateWay.genruntimeconfig.cache
+C:\Software\AMD 201\clone 2\AMD201\gateWay\obj\Debug\net8.0\ref\gateWay.dll

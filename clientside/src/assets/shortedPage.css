@@ -1,0 +1,173 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+}
+
+.shortened-link-main-container {
+    position: relative; /* Thêm thu?c tính position */
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-left: 370px;
+}
+
+/* Heading */
+.shortened-link-container h2,
+.shortened-link-history h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Messages */
+.message {
+    text-align: center;
+    color: #4caf50;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.error {
+    text-align: center;
+    color: #e53935;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Form */
+.form-group {
+    margin-bottom: 15px;
+}
+
+    .form-group label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .form-group input {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+        transition: border-color 0.3s;
+    }
+
+        .form-group input:focus {
+            border-color: #4caf50;
+            outline: none;
+        }
+
+.btn-generate {
+    display: inline-block;
+    background-color: black;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .btn-generate:hover {
+        background-color: #45a049;
+    }
+
+/* Shortened Link Result */
+.shortened-link-result {
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .shortened-link-result p {
+        font-weight: bold;
+    }
+
+    .shortened-link-result a {
+        color: #2196f3;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .shortened-link-result a:hover {
+            text-decoration: underline;
+        }
+
+/* History Section */
+.shortened-link-history {
+    margin-top: 40px;
+}
+
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .history-table th,
+    .history-table td {
+        padding: 12px;
+        border: 1px solid #ddd;
+        text-align: center;
+    }
+
+    .history-table th {
+        background-color: #f4f4f9;
+        color: #555;
+        font-weight: bold;
+    }
+
+    .history-table tr:hover {
+        background-color: #f9f9f9;
+    }
+
+    .history-table a {
+        color: #2196f3;
+        text-decoration: none;
+    }
+
+        .history-table a:hover {
+            text-decoration: underline;
+        }
+.logout-button {
+    position: absolute;
+    top: 20px; /* Kho?ng cách t? trên cùng */
+    right: 20px; /* Kho?ng cách t? bên ph?i */
+    background-color: #f44336; /* Màu n?n */
+    color: white; /* Màu ch? */
+    border: none; /* Không vi?n */
+    padding: 10px 20px; /* Padding cho nút */
+    font-size: 14px; /* Kích th??c ch? */
+    border-radius: 4px; /* Bo góc */
+    cursor: pointer; /* Con tr? d?ng tay khi hover */
+    transition: background-color 0.3s ease; /* Hi?u ?ng hover */
+}
+
+    .logout-button:hover {
+        background-color: #d32f2f; /* Màu khi hover */
+    }
+
+/* ??m b?o container có position ?? nút 'absolute' ho?t ??ng */
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .shortened-link-main-container {
+        padding: 15px;
+    }
+
+    .history-table {
+        font-size: 14px;
+    }
+}

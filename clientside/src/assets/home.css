@@ -1,0 +1,78 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text-align: center;
+    height: 100%; /* ??m b?o chi?u cao toàn màn hình */
+    width: 100%; /* ??m b?o chi?u r?ng toàn màn hình */
+}
+.con{
+    margin-left: 500px;
+    background-image: url('../assets/background.jpg'); /* ???ng d?n t??ng ??i ??n ?nh */
+    background-size: cover; /* ?nh ph? toàn b? màn hình */
+    background-repeat: no-repeat; /* Không l?p ?nh */
+    background-attachment: fixed; /* ?nh c? ??nh khi cu?n */
+    background-position: center; /* C?n gi?a ?nh */
+    height: 100vh; /* Chi?u cao toàn màn hình */
+    width: 100vw; /* Chi?u r?ng toàn màn hình */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0; /* Lo?i b? l? */
+    padding: 0; /* Lo?i b? kho?ng cách */
+    color: #fff; /* Màu ch? tr?ng */
+}
+
+
+
+/* Container */
+.welcome-container {
+    margin-top: 50px;
+}
+
+    .welcome-container h1 {
+        font-size: 36px;
+        color: #4caf50;
+        margin-bottom: 30px;
+    }
+
+/* Button Group */
+.button-group {
+    margin: 20px 0;
+}
+
+    .button-group a {
+        text-decoration: none;
+    }
+
+    .button-group button {
+        background-color: #4caf50;
+        color: #fff;
+        padding: 10px 20px;
+        font-size: 16px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        margin: 0 5px;
+    }
+
+        .button-group button:hover {
+            background-color: #45a049;
+        }
+
+/* Responsive Design */
+@media (max-width: 480px) {
+    .welcome-container h1 {
+        font-size: 28px;
+    }
+
+    .button-group button {
+        width: 100%;
+        margin: 10px 0;
+    }
+}

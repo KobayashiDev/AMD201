@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LInftxlHp5Xnr4poMDmHAdLbxrzxdOHptcw0MY38xDY=",
+  "Source": "urlShortedLinkService",
+  "BasePath": "_content/urlShortedLinkService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,114 @@
+﻿/* General styles for login container */
+
+/* Toàn màn hình với hình nền */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-image: url('../assets/registerr.png'); /* Đường dẫn tới hình ảnh */
+    background-size: cover; /* Ảnh phủ toàn màn hình */
+    background-position: center; /* Căn giữa ảnh */
+    background-repeat: no-repeat; /* Không lặp ảnh */
+}
+
+/* Centering form login */
+.login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Nền mờ trắng để nổi bật nội dung */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+    .login-container h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+/* Error message styling */
+.error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+/* Form styling */
+.form-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input {
+    background-color: #fff; /* ??t màu n?n tr?ng */
+    color: #333; /* Gi? màu ch? d? nhìn */
+    border: 1px solid #ccc; /* Vi?n nh? nhàng */
+}
+
+    input::placeholder {
+        color: #aaa; /* ??t màu cho v?n b?n g?i ý (placeholder) */
+    }
+
+    
+
+
+/* Button styling */
+.btn-login {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+    .btn-login:hover {
+        background-color: #0056b3;
+    }
+
+/* Register link styling */
+.register-link {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+}
+
+    .register-link a {
+        color: #007bff;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+        .register-link a:hover {
+            text-decoration: underline;
+        }
+
+/* Responsive styling */
+@media (max-width: 768px) {
+    .login-container {
+        padding: 15px;
+    }
+
+    input, .btn-login {
+        font-size: 14px;
+    }
+}

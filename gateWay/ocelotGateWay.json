@@ -1,0 +1,80 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:8386" // gateway port
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/shortedMapLinks/{userId}", //gateway API url
+      "UpstreamHttpMethod": [ "Get" ], //gateway API method
+      "DownstreamPathTemplate": "/api/shortedMaps/userLinks/{userId}", //service API url
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1234 //service port
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/createShortedLink", //gateway API url
+      "UpstreamHttpMethod": [ "Post" ], //gateway API method
+      "DownstreamPathTemplate": "/api/shortedMaps", //service API url
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1234 //service port
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/delete/{id}", //gateway API url
+      "UpstreamHttpMethod": [ "Delete" ], //gateway API method
+      "DownstreamPathTemplate": "/api/shortedMaps/{id}", //service API url
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1234 //service port
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/redirectLink/{shortedLink}", //gateway API url
+      "UpstreamHttpMethod": [ "Get" ], //gateway API method
+      "DownstreamPathTemplate": "/api/shortedMaps/redirect/{shortedLink}", //service API url
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1234 //service port
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/login", //gateway API url
+      "UpstreamHttpMethod": [ "Post" ], //gateway API method
+      "DownstreamPathTemplate": "/api/Users/login", //service API url
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5678 //service port
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/register", //gateway API url
+      "UpstreamHttpMethod": [ "Post" ], //gateway API method
+      "DownstreamPathTemplate": "/api/Users/register", //service API url
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5678 //service port
+        }
+      ]
+    }
+
+  ]
+}
